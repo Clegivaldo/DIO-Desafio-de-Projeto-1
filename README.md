@@ -2,4 +2,4 @@
 Repositório criado para completar desafio do curso DIO Java Developer
 
 ##Links úteis
-[Markdown](https://www.markdownguide.org/basic-syntax/)
+[Markdown](https://www.markdownguide.org/basic-syntax)
